@@ -1,0 +1,30 @@
+# Logs
+*.log
+pdf_processor.log
+
+# Directories
+Testinput/
+Testoutput/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
